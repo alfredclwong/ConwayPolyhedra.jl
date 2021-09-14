@@ -1,0 +1,11 @@
+name = "ConwayPolyhedra"
+uuid = "a99fc9cb-1270-48f5-947c-5b82784edd8e"
+authors = ["Alfred Wong <alfred.cl.wong@gmail.com>"]
+repository = "https://github.com/alfredclwong/ConwayPolyhedra.jl.git"
+version = "0.1.0-DEV"
+
+[deps]
+LightGraphs = "093fc24a-ae57-5d10-9952-331d41423f4d"
+MeshCat = "283c5d60-a78f-5afe-a0af-af636b173e11"
+NetworkLayout = "46757867-2c16-5918-afeb-47bfcb05e46a"
+Polyhedra = "67491407-f73d-577b-9b50-8179a7c68029"
